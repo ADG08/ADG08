@@ -6,4 +6,4 @@ Here is my PortFolio : https://andre-dr.vercel.app
 
 Here are some ideas to get you started:
 
-🌱 I’m currently learning React, Java, C# for Unity.
+🌱 I’m currently learning React, Java, C#/.Net.
