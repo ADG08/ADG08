@@ -12,5 +12,3 @@
 - 🎯 **Goal**: To become a **Lead Developer** and guide teams in building impactful software solutions.  
 - 🔍 **Tech Explorer**: I enjoy diving into new technologies, understanding their popularity, and mastering their nuances.  
 - 🔨 **Hands-On Approach**: I focus on creating **concrete projects** to gain practical experience and showcase my skills.  
-
----
