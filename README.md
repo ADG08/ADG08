@@ -1,9 +1,12 @@
-👋 Hi, I'm André.
+👋 Hi, I'm André!
 
-I'm a french computer science student.
+🎓 I'm a French computer science student with a passion for learning and creating.
 
-Here is my PortFolio : https://andre-dr.vercel.app
+🌐 Portfolio: andredr.dev
 
-Here are some ideas to get you started:
-
-🌱 I’m currently learning React, Java, C#/.Net.
+🚀 About Me
+🌱 Currently Learning: Next.js, Symfony, Go
+💡 Proficient in: .NET, C#, Blazor, HTML, CSS, JavaScript, SQL, Java, C++
+🎯 Goal: To become a Lead Developer and guide teams in building impactful software solutions.
+🔍 Tech Explorer: I enjoy diving into new technologies, understanding their popularity, and mastering their nuances.
+🔨 Hands-On Approach: I focus on creating concrete projects to gain practical experience and showcase my skills.
