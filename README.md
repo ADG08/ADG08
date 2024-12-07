@@ -51,4 +51,4 @@ I’m driven by a curiosity for technology and a desire to **understand why tool
 ---
 
 ## 📫 Contact Me  
-Feel free to connect on [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/andr%C3%A9-domingues-ramos/)) or reach out through my portfolio!  
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in//andre-domingues-ramos) or reach out through my portfolio!  
