@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 **Currently Learning**: Next.js, Symfony, Go, Rust  
+- 🌱 **Currently Learning**: Next.js, Symfony, Go  
 - 💡 **Proficient in**: .NET, C#, Blazor, HTML, CSS, JavaScript, SQL, C++  
 - 🎯 **Goal**: To become a **Lead Developer** and guide teams in building impactful software solutions.  
 - 🔍 **Tech Explorer**: I enjoy diving into new technologies, understanding their popularity, and mastering their nuances.  
