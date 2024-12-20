@@ -1,6 +1,6 @@
 <h1 align="left">👋 Hi, I'm André</h1>
 <p align="left">🎓 I'm a young French Software Engineer with a passion for learning and creating.</p>
-<p align="left">🌐 Portfolio: [andredr.dev](https://andredr.dev)</p>
+<p align="left">🌐 Portfolio: <a href="https://andredr.dev" target="_blank">andredr.dev</a></p>
 
 <h2 align="left">🚀 About Me</h2>
 <p align="left">🌱 Currently learning ...</p>
@@ -58,4 +58,4 @@
 
 <br clear="both">
 
-<p align="left">Feel free to connect on [LinkedIn](https://www.linkedin.com/in/andre-domingues-ramos/) or reach out through my portfolio!</p>
+<p align="left">Feel free to connect on <a href="https://www.linkedin.com/in/andre-domingues-ramos/" target="_blank">LinkedIn</a> or reach out through my portfolio!</p>
