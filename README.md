@@ -1,44 +1,61 @@
-# 👋 Hi, I'm André  
+<h1 align="left">👋 Hi, I'm André</h1>
+<p align="left">🎓 I'm a young French Software Engineer with a passion for learning and creating.</p>
+<p align="left">🌐 Portfolio: [andredr.dev](https://andredr.dev)</p>
 
-🎓 I'm a French computer science student with a passion for learning and creating.  
+<h2 align="left">🚀 About Me</h2>
+<p align="left">🌱 Currently learning ...</p>
+<p align="left">🎯 My goal is to become a Lead Developer and aiming to work at top tech companies.</p>
+<p align="left">🔍 Working on projects to showcase my skills and knowledge of various technologies.</p>
 
-🌐 **Portfolio**: [andredr.dev](https://andredr.dev)  
+<h2 align="left">🛠️ Tools & Technologies</h2>
+<h3 align="left">Languages</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+</div>
 
----
+<h3 align="left">Frameworks & Libraries</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="symfony logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img src="https://skillicons.dev/icons?i=jquery" height="40" alt="jquery logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
 
-## 🚀 About Me  
-- 🌱 **Currently Learning**: Next.js, Symfony, Go  
-- 💡 **Proficient in**: .NET, C#, Blazor, HTML, CSS, JavaScript, SQL, C++  
-- 🎯 **Goal**: To become a **Lead Developer** and guide teams in building impactful software solutions.  
-- 🔍 **Tech Explorer**: I enjoy diving into new technologies, understanding their popularity, and mastering their nuances.  
-- 🔨 **Hands-On Approach**: I focus on creating **concrete projects** to gain practical experience and showcase my skills.  
+<h3 align="left">Tools & Others</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="40" alt="nuget logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
+  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
+</div>
 
----
+<h2 align="left">📈 GitHub Stats</h2>
+<div align="left">
+  <img src="https://github-profile-trophy.vercel.app?username=ADG08&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ADG08&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ADG08&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-## 🛠️ Tools & Technologies  
+<h2 align="left">📫 Contact Me</h2>
 
-### **Languages**  
-![C#](https://img.shields.io/badge/-C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white&style=flat-square) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat-square) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
+<br clear="both">
 
-### **Frameworks & Libraries**  
-![Blazor](https://img.shields.io/badge/-Blazor-512BD4?logo=blazor&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square) ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat-square)  
-
-### **Other Tools**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square) ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white&style=flat-square) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)  
-
----
-
-## 🎯 My Mission  
-I’m driven by a curiosity for technology and a desire to **understand why tools and frameworks gain popularity**. I dedicate time to mastering them and building real-world projects that reflect my learning and growth.  
-
-🌟 **Why?** Because I believe in the power of experience and execution to build confidence and readiness for leadership roles.  
-
----
-
-## 📈 GitHub Stats  
-![André's GitHub stats](https://github-readme-stats.vercel.app/api?username=ADG08&show_icons=true&theme=radical)  
-
----
-
-## 📫 Contact Me  
-Feel free to connect on [LinkedIn](https://www.linkedin.com/in//andre-domingues-ramos) or reach out through my portfolio!  
+<p align="left">Feel free to connect on [LinkedIn](https://www.linkedin.com/in/andre-domingues-ramos/) or reach out through my portfolio!</p>
