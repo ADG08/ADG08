@@ -3,7 +3,7 @@
 <p align="left">🌐 Portfolio: <a href="https://andredr.dev" target="_blank">andredr.dev</a></p>
 
 <h2 align="left">🚀 About Me</h2>
-<p align="left">🌱 Currently learning ...</p>
+<p align="left">🌱 Currently learning Go</p>
 <p align="left">🎯 My goal is to become a Lead Developer and aiming to work at top tech companies.</p>
 <p align="left">🔍 Working on projects to showcase my skills and knowledge of various technologies.</p>
 
